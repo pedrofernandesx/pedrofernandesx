@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-         Me segue lá no LinkeDin pra gente se conectar!
+         Me segue lá no LinkeDin pra gente se conectar! ☝🏽
 </p>
 
 ---
