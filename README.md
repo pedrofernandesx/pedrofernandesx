@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋👾</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/vq4NPlP.jpeg" width="350" alt="pixel-art"/>
+  <img src="https://i.imgur.com/vq4NPlP.png" width="350" alt="pixel-art"/>
 </p>
 
 <p align="center">
@@ -19,8 +19,7 @@ Oi! Eu sou o Pedro (ou Kirev!), desenvolvedor em evolução direto do 🇧🇷.
 
 Atualmente estudando **Análise e Desenvolvimento de Sistemas**, aprimorando meus aprendizados em **HTML, CSS, JavaScript** e trilhando meus caminhos rumo ao **Back-end**, **Análise de dados** e **Cloud**.
 
-🔹 Tentando solucionar bugs desde 2023  
-🔹 Estudando inglês pra dominar o mundo 🌍  
+🔹 Tentando solucionar bugs desde 2023
 🔹 Fã de IA e de tudo que dá pra automatizar 🤖  
 🔹 Viciado em jogos online 🎮 
 
@@ -40,4 +39,4 @@ Atualmente estudando **Análise e Desenvolvimento de Sistemas**, aprimorando meu
 ### 🚀 A little more…
 
 Sempre buscando aprender algo novo, quebrar umas coisas no VS Code e montar projetos pra mostrar no LinkedIn.  
-Quer ver meus testes de humor com IA? Me dá uns dias. 😅  
+                        😅  
