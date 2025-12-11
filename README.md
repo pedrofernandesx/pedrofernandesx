@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋👾</h1>
 
 <p align="center">
-  <img src="[https://imgur.com/a/q7dkrRM)" width="250" alt="HELLO!/>
+  <img src="https://i.imgur.com/vq4NPlP.jpeg" width="350" alt="pixel-art dev"/>
 </p>
 
 <p align="center">
