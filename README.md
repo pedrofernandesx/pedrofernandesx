@@ -15,7 +15,7 @@
 ---
 ### 👤 About Me
 
-Oi! Eu sou o Pedro (ou Kirev!), desenvolvedor em evolução direto do 🇧🇷.  
+Oi! Eu sou o Pedro, desenvolvedor em evolução direto do 🇧🇷.  
 
 Atualmente estudando **Análise e Desenvolvimento de Sistemas**, aprimorando meus aprendizados em **HTML, CSS, JavaScript** e trilhando meus caminhos rumo ao **Back-end**, **Análise de dados** e **Cloud**.
 
