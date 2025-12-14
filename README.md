@@ -1,3 +1,9 @@
+<h1 align="center">Hey there 👋👾</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/NK3a7rH.png" width="350" alt="pixel-art"/>
+</p>
+
 ### 👤 About Me
 
 Hi! I’m **Pedro**, a Software Development student based in 🇧🇷.
