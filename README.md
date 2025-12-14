@@ -11,7 +11,6 @@ Hi! I’m **Pedro**, a Software Development student based in 🇧🇷.
 Currently pursuing a degree in **Systems Analysis and Development**, with hands-on experience in **HTML, CSS, JavaScript**, and **Python**.  
 I am actively expanding my knowledge toward **Back-end Development**, **Data Analysis**, and **Cloud Computing**.
 
-🔹 Debugging since 2023  
 🔹 AI enthusiast and automation lover 🤖  
 🔹 Online gaming addict 🎮  
 
