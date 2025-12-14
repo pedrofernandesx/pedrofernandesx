@@ -31,8 +31,4 @@ I am actively expanding my knowledge toward **Back-end Development**, **Data Ana
 ### 👾 A little more…
 
 I am continuously working on personal and academic projects, focusing on improving code quality, problem-solving skills, and real-world application development.
-Always looking to learn something new, break a few things in VS Code, and build projects to share on LinkedIn 😅
-
----
-
-### 🚀 A little more…
+Always looking to learn something new, break a few things in VS Code, and build projects! 
