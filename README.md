@@ -25,9 +25,6 @@ I’m building hands-on experience in:
 - Home lab environments (DVWA, Juice Shop, etc.)
 - Writing structured technical reports.
 
-🔹 AI enthusiast and automation lover 🤖  
-🔹 Online gaming addict 🎮  
-
 ---
 ### 🛠️ Languages & Tools
 
