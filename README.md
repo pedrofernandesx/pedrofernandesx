@@ -8,8 +8,22 @@
 
 Hi! I’m **Pedro**, a Software Development student based in 🇧🇷.
 
-Currently pursuing a degree in **Systems Analysis and Development**, with hands-on experience in **HTML, CSS, JavaScript**, and **Python**.  
-I am actively expanding my knowledge toward **Back-end Development**, **Data Analysis**, and **Cloud Computing**.
+Cybersecurity student focused on Pentest & Offensive Security.
+
+I’m building hands-on experience in:
+- Web Application Security (OWASP Top 10)
+- Network Recon & Enumeration
+- Python automation for security tasks
+- Linux environments & lab simulations
+
+---
+
+## Current Focus
+
+- Pentest fundamentals
+- Offensive security methodology
+- Home lab environments (DVWA, Juice Shop, etc.)
+- Writing structured technical reports.
 
 🔹 AI enthusiast and automation lover 🤖  
 🔹 Online gaming addict 🎮  
@@ -27,7 +41,11 @@ I am actively expanding my knowledge toward **Back-end Development**, **Data Ana
 
 ---
 
-### 👾 A little more…
+### 
+I focus on understanding:
+- Attack vectors
+- Impact analysis
+- Mitigation strategies
+- Secure-by-design thinking
 
-I am continuously working on personal and academic projects, focusing on improving code quality, problem-solving skills, and real-world application development.
-Always looking to learn something new, break a few things in VS Code, and build projects! 
+My goal is to grow into a strong Pentest / Red Team professional through disciplined lab practice and documentation.
