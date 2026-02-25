@@ -8,7 +8,7 @@
 
 Hi! I’m **Pedro**, a Software Development student based in 🇧🇷.
 
-Cybersecurity student focused on Pentest & Offensive Security.
+Cybersecurity student focused on Security.
 
 I’m building hands-on experience in:
 - Web Application Security (OWASP Top 10)
@@ -23,7 +23,7 @@ I’m building hands-on experience in:
 - Pentest fundamentals
 - Offensive security methodology
 - Home lab environments (DVWA, Juice Shop, etc.)
-- Writing structured technical reports.
+- Writing structured technical reports
 
 ---
 ### 🛠️ Languages & Tools
