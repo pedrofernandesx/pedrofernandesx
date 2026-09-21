@@ -1,9 +1,9 @@
 <p align="center">
-  <b>Web Dev | Automation | WhatsApp & AI Integrations</b>
+  <b> Dev | Automation | WhatsApp & AI Integrations</b>
 </p>
 
 ### 👤 About Me
-Hi! I'm **Pedro**, a freelance web developer based in 🇧🇷.
+Hi! I'm **Pedro**, a freelance dev based in 🇧🇷.
 Focused on automation, chatbots and AI integrations for businesses.
 
 I'm building solutions with:
